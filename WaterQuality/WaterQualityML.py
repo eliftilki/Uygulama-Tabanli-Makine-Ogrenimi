@@ -142,4 +142,3 @@ print(scores)
 [['Ranfom Forest', {'n_estimators': 100, 'max_features': 'sqrt', 
    'max_depth': 19}, 0.6747572612176502]]
 """
-    
